@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Magic class from a given ByteCode."""
+"""Define a Magic class from a given ByteCode."""
+
+
 import math
 
 
@@ -18,4 +20,4 @@ class MagicClass:
 
     def circumference(self):
         """Calculation of the circumference."""
-        return 2 * math.pi * self._MagicClass__radius
+        return 2 * math.pi * self._MagicClass__radiu s
