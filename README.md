@@ -8,5 +8,5 @@ This is a new repository containing a directory and files about new ALX python p
 * 0x04. Python - More Data Structures: Set, Dictionary
 * 0x05. Python - Exceptions
 * 0x06. Python - Classes and Objects
-* 0x08. Python - More Classes and Objects
 * 0x07. Python - Test-driven development
+* 0x08. Python - More Classes and Objects
