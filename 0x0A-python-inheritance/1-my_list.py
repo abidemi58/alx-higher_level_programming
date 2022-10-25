@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""Creates a class inheriting from the list class.
-"""
+"""Creates a class inheriting from the list class."""
 
 
 class MyList(list):
