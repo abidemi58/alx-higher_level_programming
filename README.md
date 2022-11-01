@@ -13,4 +13,5 @@ This is a new repository containing a directory and files about new ALX python p
 * 0x09. Python - Everything is object
 * 0x0A. Python - Inheritance
 * 0x0B. Python - Input/Output
+* 0x0C. Python - Almost a circle
 
