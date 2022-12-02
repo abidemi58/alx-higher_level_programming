@@ -14,4 +14,6 @@ This is a new repository containing a directory and files about new ALX python p
 * 0x0A. Python - Inheritance
 * 0x0B. Python - Input/Output
 * 0x0C. Python - Almost a circle
+* 0x0D. SQL - Introduction
+* 0x0E. SQL - More queries
 
