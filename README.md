@@ -16,4 +16,6 @@ This is a new repository containing a directory and files about new ALX python p
 * 0x0C. Python - Almost a circle
 * 0x0D. SQL - Introduction
 * 0x0E. SQL - More queries
-
+* 0x0F-python-object_relational_mapping
+* 0x12-javascript-warm_up
+* 0x13-javascript_objects_scopes_closures
